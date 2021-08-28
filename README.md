@@ -9,7 +9,7 @@
 
 hacer un git init en una carpeta
 
-y despues un git pull https://github.com/jpdalmolin/Ecommerce-ReactJS
+y despues un git pull https://github.com/jpdalmolin/Ecommerce-ReactJS-Final
 
 - **Descargar Node.JS   (reiniciar la pc)**
 
