@@ -11,6 +11,8 @@ hacer un git init en una carpeta
 
 y despues un git pull https://github.com/jpdalmolin/Ecommerce-ReactJS-Final
 
+code . en el git bash
+
 - **Descargar Node.JS   (reiniciar la pc)**
 
 Ingresar en terminal el comando
