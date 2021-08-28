@@ -29,10 +29,6 @@ Para su instalacion el comando:
 
 - **npm install react-bootstrap@next bootstrap@5.0.2**
 
-### instalar iconos de bootstrap
-
-- **npm i bootstrap-icons**
-
 ### instalar Firebase
 
 - **npm install firebase**
