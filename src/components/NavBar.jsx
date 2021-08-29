@@ -22,9 +22,7 @@ function NavBar() {
       <li className="nav-item">
       <span className="sr-only"><Link to="/category/mother">Mother</Link></span>
       </li>
-      <li className="nav-item">
-      <span className="sr-only"><Link to="/detail">Detail</Link></span>
-      </li>
+      
        
     </ul>
     </div>
