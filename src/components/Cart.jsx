@@ -22,7 +22,8 @@ function Cart() {
                 const db=getFirestore()
     
                 db.collection('order').add(order)
-                
+                .then(resp=> console.log(resp))
+                .catch(resp=> console.log(resp))
                 
             }
 
